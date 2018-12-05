@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Prefabs/Scene_Principale.unity
+  isLoaded: 1
+  isActive: 1
